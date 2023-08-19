@@ -86,7 +86,7 @@ ConPR
 <a href="https://drive.google.com/drive/folders/1jbKrrJGG56p9uusLyne1WrwwEmXSNHce?usp=sharing"><strong>Download Link</strong></a>
 
 ### File Player
-- If you want to publish sensor data as ROS messages, you can use **File Player**.
+- If you want to publish sensor data as ROS messages, you can use <a href="https://github.com/dongjae0107/ConPR/tree/main/file_player"><strong>File Player</strong></a>
 ```
 roslaunch file_player file_player.launch
 ```
