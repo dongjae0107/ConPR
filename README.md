@@ -97,4 +97,8 @@ roslaunch file_player file_player.launch
 If you use our dataset for your project, please cite our paper(TBA).  
 
 ## License
-This dataset is licensed under the terms of the MIT license. See the [LICENSE](LICENSE.md) file for license rights and limitations.
+### For Dataset
+All datasets on this page are copyrighted by SNU RPM Labs and published under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><strong>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License</strong></a>. You must attribute the work in the manner specified by the author. You may not use the work for commercial purposes, and you may only distribute the resulting work under the same license if you alter, transform, or create the work
+
+### For Code
+This code is licensed under the terms of the MIT license. See the [LICENSE](LICENSE.md) file for license rights and limitations.
