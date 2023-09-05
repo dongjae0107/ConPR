@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://tinyurl.com/DongjaeLEE0107"><strong>Dongjae LEE</strong></a>
 ·
-<a href="https://github.com/minwoo0611"><strong>Minwoo JUNG</strong></a>
+<a href="https://minwoo0611.github.io/about/"><strong>Minwoo JUNG</strong></a>
 ·
 <a href="https://ayoungk.github.io/"><strong>Ayoung KIM</strong></a>
 </p>
