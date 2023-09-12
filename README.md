@@ -94,7 +94,17 @@ roslaunch file_player file_player.launch
 - Press the Open button and click on Play to start the playback.
 
 ## Citation
-If you use our dataset for your project, please cite our paper(TBA).  
+If you use our dataset for your project, please cite our paper.
+```
+@inproceedings{
+lee2023conpr,
+title={Con{PR}: Ongoing Construction Site Dataset for Place Recognition},
+author={Dongjae LEE and Minwoo Jung and Ayoung Kim},
+booktitle={IROS 2023 Workshop on Closing the Loop on Localization: What Are We Localizing For, and How Does That Shape Everything We Should Do?},
+year={2023},
+url={https://openreview.net/forum?id=I0gHRlQ5Xb}
+}
+```
 
 ## License
 ### For Dataset
