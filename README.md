@@ -12,7 +12,7 @@
 <p></p>
 
 <p align="center">
-<img src="figure\map.png" alt="" width="100%">
+<img src="figure/map.png" alt="" width="100%">
 </p>
 
 </h3>
@@ -35,8 +35,8 @@ The handheld system with a monocular camera and a 3D solid-state LiDAR was used 
 | GPS        | u-blox       | ZED-F9P         | Multi-band GNSS receiver providing centimeter level accurate pose | 10  |
 
 <p float="center">
-  <img src="figure\sensor_config.png" width="55%" />
-  <img src="figure\sensor_coordinate.png" width="35%" /> 
+  <img src="figure/sensor_config.png" width="55%" />
+  <img src="figure/sensor_coordinate.png" width="35%" /> 
 </p>
 
 ### Data Format
